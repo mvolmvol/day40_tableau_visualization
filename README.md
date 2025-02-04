@@ -43,7 +43,7 @@ We worked the whole day with exercises .
 **Example** Display proportional composition  
 
 ### 4. Treemap  
-<img src="https://media.datacamp.com/legacy/v1714130196/image_b1f189af9e.png" width="600" height="300" />  
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UlLHi8YLcumu7MhqsBbd4Q.png" width="600" height="300" />  
 **Example** Visualize part-to-whole relationships  
 
 
