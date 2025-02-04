@@ -3,6 +3,8 @@
 Protocol writer: Martin Volman
 
 We explored advanced Tableau visualizations and dashboard storytelling techniques.  
+We worked the whole day with exercises .
+
 
 ### Key Chart Types  
 1. **Bump Charts**  
@@ -41,16 +43,9 @@ We explored advanced Tableau visualizations and dashboard storytelling technique
 **Example** Display proportional composition  
 
 ### 4. Treemap  
-![Treemap Hierarchy Example](https://via.placeholder.com/400x200?text=Treemap+Hierarchy)  
+<img src="https://media.datacamp.com/legacy/v1714130196/image_b1f189af9e.png" width="600" height="300" />  
 **Example** Visualize part-to-whole relationships  
 
-### 5. Percentage Table  
-![Segment Analysis Table Example](https://via.placeholder.com/400x200?text=Segment+Analysis+Table)  
-**Example** Analyze granular contributions  
-
-### 6. Discovery Dashboard  
-![Sales Dashboard Example](https://via.placeholder.com/600x300?text=Sales+Dashboard+Layout)  
-**Example** Multi-metric analysis platform  
 
 ---  
 ## __Chart Type Comparison__  
